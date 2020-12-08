@@ -1,0 +1,14 @@
+.indicator {
+  margin: 0 1%;
+  height: 2.5vh;
+  min-height: 2.5vh;
+  width: 2.5vh;
+  min-width: 2.5vh;
+  background-size: cover;
+  background-position: center;
+
+  .indicator-image {
+    width: 100%;
+    height: 100%;
+  }
+}
