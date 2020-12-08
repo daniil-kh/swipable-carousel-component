@@ -6,12 +6,12 @@
 
 Clone repository
 
-> <code>npm install</code>
+`npm install`
 
 Create `dist` folder
 Create `bundle.js` in `dist` folder
 
-> <code>npm run build</code>
+`npm run build`
 
 ## Usage
 
